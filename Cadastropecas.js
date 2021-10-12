@@ -1,6 +1,6 @@
-let: peso = 80
+let: peso = 110
 
-if (peso >100) {
+if (peso >99) {
     console.log ("A peça possui um peso adequado, pode ser  cadastrada")
     
 }else {
